@@ -53,9 +53,9 @@
 
 
 
-### Name: ANBUDURAI A
+### Name: HARISH S
 
-### Register Number: 212224230018
+### Register Number: 212224110022
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
